@@ -4,7 +4,7 @@ Hi, I'm Wafa MOULOUD 👋
 
 A passionate software engineer exploring the world of technology
 
-Software Engineering • API Integration • React • Troubleshooting • Continuous Learning
+Software Engineering • API Integration • React • AI & Automation
 
 <p>
   <a href="www.linkedin.com/in/wafa-mouloud">
