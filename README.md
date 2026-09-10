@@ -2,7 +2,7 @@
 
 Hi, I'm Wafa MOULOUD 👋
 
-A passionate software engineer from Algeria 🇩🇿
+A passionate software engineer exploring the world of technology
 
 Software Engineering • API Integration • React • Troubleshooting • Continuous Learning
 
