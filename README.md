@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Wafa Mouloud profile banner" width="100%"/>
-
 Hi, I'm Wafa MOULOUD 👋
 
 A passionate software engineer from Algeria 🇩🇿
@@ -63,7 +61,6 @@ I enjoy understanding how systems work, solving technical problems, testing and 
 &nbsp;
 <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger OpenAPI"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Webhooks-6C63FF?style=for-the-badge" alt="Webhooks"/>
 </p>
 
 🗄️ Database
@@ -80,37 +77,12 @@ I enjoy understanding how systems work, solving technical problems, testing and 
 
 <p>
 <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-💼 Professional Experience
 
-Qanawat Media — Technical Support Engineer
-
-April 2023 – June 2026 · Algiers, Algeria
-
-🔗 Direct Carrier Billing (DCB)
-
-Served as a primary technical point of contact for mobile operators and merchants.
-
-Managed DCB integrations and technical incident resolution.
-
-Performed service onboarding, configuration, technical testing, validation and production deployment.
-
-Prepared technical reports and supported the launch of digital and subscription services.
-
-💻 Development Team
-
-Performed API testing and validation using Postman.
-
-Contributed to front-end development with React.
-
-Implemented new features and fixed application bugs.
-
-Participated in code analysis, application maintenance and continuous improvements.
 
 🧠 AI & Automation
 
@@ -123,54 +95,6 @@ Areas I'm exploring:
 AI Agents · AI Automation · LLMs · APIs · Workflow Automation
 
 
-
-📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wafa-Md&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wafa-Md&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Wafa-Md&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-
-
-
-🌍 Languages
-
-Language
-
-
-
-🇩🇿 Arabic
-
-Fluent
-
-🇫🇷 French
-
-Fluent
-
-🇬🇧 English
-
-Fluent
-
-📫 Let's Connect
-
-<div align="center">
-
-<a href="www.linkedin.com/in/wafa-mouloud">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
-
-<a href="mailto:mouloudwafa18@gmail.com">
-<img src="https://img.shields.io/badge/Email-mouloudwafa18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Wafa"/>
-</a>
-
-</div>
 
 <div align="center">
 
