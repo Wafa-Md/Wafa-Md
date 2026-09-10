@@ -12,9 +12,7 @@ Software Engineering • API Integration • React • Troubleshooting • Conti
   <a href="www.linkedin.com/in/wafa-mouloud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mouloudwafa18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  
   <a href="https://github.com/Wafa-Md">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -53,7 +51,6 @@ I enjoy understanding how systems work, solving technical problems, testing and 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,php,cpp" alt="Programming languages"/>
 </p>
 
-Also: SQL / Microsoft SQL Server
 
 ⚛️ Development & APIs
 
@@ -126,113 +123,22 @@ Areas I'm exploring:
 AI Agents · AI Automation · LLMs · APIs · Workflow Automation
 
 
-🚀 Featured Projects
-
-I’m building and collecting practical projects that demonstrate my software engineering, API and automation skills.
-
-Project
-
-Focus
-
-Status
-
-🔌 API Integration Lab
-
-REST APIs, Postman, validation & documentation
-
-🟡 Building
-
-⚛️ React Projects
-
-Front-end development, UI & debugging
-
-🟡 Building
-
-🤖 AI Automation Projects
-
-AI agents, automation & API integration
-
-🟢 Exploring
-
-Project links will be added as the projects become public.
 
 📊 GitHub Statistics
 
-Replace YOUR_GITHUB_USERNAME below with your GitHub username.
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wafa-Md&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wafa-Md&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Wafa-Md&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-🐍 My Contribution Snake
 
-<div align="center">
 
-<!-- This animation is generated automatically by GitHub Actions. -->
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
-⚙️ Enable the Snake Animation
-
-Create this file in your profile repository:
-
-.github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
-
-🎓 Education
-
-🎓 Master of Science in Software Engineering
-
-USTHB — Algiers, Algeria
-September 2019 – September 2021
-
-Relevant coursework:
-Software Quality Assurance · Data Warehouses · IT Security · Multimedia Systems · Complexity · Operating Systems · Project Management · Database Architecture & Administration
-
-🎓 Bachelor of Science in Information Systems and Software Engineering
-
-USTHB — Algiers, Algeria
-September 2016 – July 2019
-
-Relevant coursework:
-Computer Engineering Fundamentals · Computer Architecture · Algorithms · Databases & Data Structures · Natural Language Processing · Probability & Statistics · Object-Oriented Programming · Web Development
 
 🌍 Languages
 
