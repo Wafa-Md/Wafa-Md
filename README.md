@@ -7,7 +7,7 @@ A passionate software engineer exploring the world of technology
 Software Engineering • API Integration • React • AI & Automation
 
 <p>
-  <a href="www.linkedin.com/in/wafa-mouloud">
+  <a href="https://www.linkedin.com/in/wafa-mouloud/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
